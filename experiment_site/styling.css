@@ -13,7 +13,16 @@ h1 {
   font-family: "Calibri", "Arial", sans-serif;
 }
 
+div {
+  border: 10px solid white;
+  background-color: red;
+  color:white;
+}
 
+p{
+  margin: 2%;
+  height: 200px;
+}
 
 
 /* Simple Responsive Framework. */
