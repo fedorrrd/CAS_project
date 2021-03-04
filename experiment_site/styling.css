@@ -13,6 +13,13 @@ h1 {
   font-family: "Calibri", "Arial", sans-serif;
 }
 
+h2 {
+  margin-top: 100px;
+  font-family: "Calibri", "Arial", sans-serif;
+  text-align: center;
+  font-size: 150%
+}
+
 div {
   border: 10px solid white;
   background-color: #40FF88;
@@ -20,16 +27,19 @@ div {
   text-align: center;
 }
 
+div:hover{
+  background-color: #FFDA33;
+  color: #0F00B3;
+}
+
 a{
   margin: 2%;
   font-weight: bold
 }
 
-div:hover{
-  background-color: #FFDE20;
-  color: #0F00B3;
+p {
+    text-indent: 40px; /* Отступ первой строки в пикселах */
 }
-
 
 /* Simple Responsive Framework. */
 .row {
