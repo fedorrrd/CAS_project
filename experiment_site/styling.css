@@ -37,8 +37,8 @@ a{
   font-weight: bold
 }
 
-p {
-    text-indent: 40px; /* Отступ первой строки в пикселах */
+p .normal{
+    text-indent: 40px; 
 }
 
 /* Simple Responsive Framework. */
