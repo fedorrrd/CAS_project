@@ -41,6 +41,10 @@ p .normal{
     text-indent: 40px; 
 }
 
+.solutions{
+  float: right;
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
