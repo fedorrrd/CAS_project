@@ -19,6 +19,11 @@ h2 {
   font-size: 150%
 }
 
+h4 {
+  font-family: "Calibri", "Arial", sans-serif;
+  font-size: 150%
+}
+
 div {
   border: 10px solid white;
   background-color: #40FF88;
@@ -36,17 +41,14 @@ a{
   font-weight: bold
 }
 
+
+
 .normal{
   text-indent: 40px; 
-}
-
-.solutions{
-  float: right;
-}
-
-/* Simple Responsive Framework. */
-.row {
-  width: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: justify;
+  
 }
 
 /********** Large devices only **********/
