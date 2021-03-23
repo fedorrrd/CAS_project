@@ -3,7 +3,7 @@
 }
 
 body {
-      font-family: "Calibri light", "Arial", sans-serif;
+  font-family: "Calibri light", "Arial", sans-serif;
 }
 
 h1 {
@@ -14,7 +14,6 @@ h1 {
 }
 
 h2 {
-  margin-top: 100px;
   font-family: "Calibri", "Arial", sans-serif;
   text-align: center;
   font-size: 150%
@@ -37,8 +36,8 @@ a{
   font-weight: bold
 }
 
-p .normal{
-    text-indent: 40px; 
+.normal{
+  text-indent: 40px; 
 }
 
 .solutions{
