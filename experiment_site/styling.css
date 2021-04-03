@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: "Calibri light", "Arial", sans-serif;
+  font-family: "Calibri light", "Arial", sans-serif
 }
 
 h1 {
@@ -16,11 +16,6 @@ h1 {
 h2 {
   font-family: "Calibri", "Arial", sans-serif;
   text-align: center;
-  font-size: 150%
-}
-
-h4 {
-  font-family: "Calibri", "Arial", sans-serif;
   font-size: 150%
 }
 
@@ -40,6 +35,23 @@ a{
   margin: 2%;
   font-weight: bold
 }
+
+table{
+  float: left;
+  width: 100%;
+}
+
+th{
+  float: left;
+  width: 33.33%;
+  background-color: #33FDFF;
+}
+
+td {
+  float: left;
+  width: 33.33%;
+}
+
 
 
 
