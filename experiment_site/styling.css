@@ -3,7 +3,10 @@
 }
 
 body {
-  font-family: "Calibri light", "Arial", sans-serif
+  font-family: "Calibri light", "Arial", sans-serif;
+  background-color: #E8E2DB;
+  color: #1A3263;
+
 }
 
 h1 {
@@ -17,23 +20,22 @@ h2 {
   font-family: "Calibri", "Arial", sans-serif;
   text-align: center;
   font-size: 150%
+  color: #CC1F5C;
 }
 
 div {
-  border: 10px solid white;
-  background-color: #40FF88;
-  color: #B3221B;
+  border: 10px solid #E8E2DB;
+  background-color: #FAB95B;
   text-align: center;
+  border-radius: 50px;
 }
 
 div:hover{
-  background-color: #FFDA33;
-  color: #0F00B3;
+  background-color: #F5564E;
 }
 
 a{
-  margin: 2%;
-  font-weight: bold
+  font-weight: bold;
 }
 
 table{
@@ -44,7 +46,7 @@ table{
 th{
   float: left;
   width: 33.33%;
-  background-color: #33FDFF;
+  background-color: #1FA9CC;
 }
 
 td {
