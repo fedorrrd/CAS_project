@@ -36,6 +36,7 @@ div:hover{
 
 a{
   font-weight: bold;
+  text-decoration: none;
 }
 
 table{
