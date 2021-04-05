@@ -10,8 +10,8 @@ body {
 }
 
 h1 {
-  font-size: 175%
-  margin-bottom: 15px;
+  font-size: 175%;
+  margin-bottom: 20px;
   text-align: center;
   font-family: "Calibri", "Arial", sans-serif;
 }
@@ -42,6 +42,8 @@ a{
 table{
   float: left;
   width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 th{
@@ -55,8 +57,22 @@ td {
   width: 33.33%;
 }
 
+span {
+  background-color: #66002B;
+  padding: 100px 60px 10px 60px;
+  border-radius: 100px;
+  color: #FFFFFF;
+}
 
 
+.circle{
+  position: absolute;
+  background-color: #62DB6A ;
+  height: 100px;
+  width: 100px;
+  top: -50px;
+  border-radius: 50px;
+}
 
 .normal{
   text-indent: 40px; 
