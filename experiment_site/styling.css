@@ -6,7 +6,6 @@ body {
   font-family: "Calibri light", "Arial", sans-serif;
   background-color: #E8E2DB;
   color: #1A3263;
-
 }
 
 h1 {
@@ -65,6 +64,9 @@ span {
 }
 
 
+.gradient{
+  background: linear-gradient(to top, #E059A8, #E8E2DB);
+}
 
 .normal{
   text-indent: 40px; 
