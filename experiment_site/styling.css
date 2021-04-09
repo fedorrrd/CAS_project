@@ -54,10 +54,11 @@ th{
 td {
   float: left;
   width: 33.33%;
-  height: 50px;
   text-align: center;
-  vertical-align: baseline;
+  height: auto;
 }
+
+
 
 span {
   background-color: #66002B;
