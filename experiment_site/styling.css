@@ -67,6 +67,10 @@ span {
   color: #FFFFFF;
 }
 
+caption{
+  font-weight: bold;
+}
+
 
 .gradient{
   background: linear-gradient(to top, #E059A8, #E8E2DB);
