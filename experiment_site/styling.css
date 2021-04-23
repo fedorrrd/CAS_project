@@ -72,6 +72,10 @@ caption{
   
 }
 
+img {
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
 
 .gradient{
   background: linear-gradient(to top, #E059A8, #E8E2DB);
